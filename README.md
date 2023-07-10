@@ -32,7 +32,7 @@ Others:
 - Debug Trail
 - VFX/SFX Utilities
 
-Guide:
+Default Input:
 - Move: WASD (wait seriously ?)
 - Jump: Space
 - Crouch: Shift
